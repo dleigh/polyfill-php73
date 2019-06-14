@@ -20,8 +20,7 @@
     },
     "autoload": {
         "psr-4": { "Symfony\\Polyfill\\Php73\\": "" },
-        "files": [ "bootstrap.php" ],
-        "classmap": [ "Resources/stubs" ]
+        "files": [ "bootstrap.php" ]
     },
     "minimum-stability": "dev",
     "extra": {
